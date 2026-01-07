@@ -1,4 +1,4 @@
-# ![splash](splash.png)
+# ![splash](https://github.com/S2009-dev/MorTP/blob/main/splash.png?raw=true)
 
 MorTP is basically a DeathSwap, a minigame originally created by SethBling where players swap positions periodically to kill each other! Unlimited players and many languages are supported.
 
@@ -20,7 +20,7 @@ MorTP is basically a DeathSwap, a minigame originally created by SethBling where
 7. You can now see a new button in your pause menu!
 8. Run `/team join mortp.master` to use every [features](#computer-features).
 
-![pause](screenshots/pause.png)
+![pause](https://github.com/S2009-dev/MorTP/blob/main/screenshots/pause.png?raw=true)
 
 ## :computer: Features
 
@@ -42,6 +42,6 @@ MorTP is basically a DeathSwap, a minigame originally created by SethBling where
 
 ## :camera: Screenshots
 
-![home](screenshots/home.png)
-![config](screenshots/config.png)
-![credits](screenshots/credits.png)
+![home](https://github.com/S2009-dev/MorTP/blob/main/screenshots/home.png?raw=true)
+![config](https://github.com/S2009-dev/MorTP/blob/main/screenshots/config.png?raw=true)
+![credits](https://github.com/S2009-dev/MorTP/blob/main/screenshots/credits.png?raw=true)
