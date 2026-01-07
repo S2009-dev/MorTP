@@ -1,0 +1,23 @@
+{
+  "pack": {
+    "min_format": [
+      94,
+      1
+    ],
+    "max_format": 94,
+    "description": {
+      "translate": "mortp.pack.description",
+      "with": [
+        {
+            "text": "§c§lDeath§9§lSwap",
+            "hover_event": {
+                "action": "show_text",
+                "value": {
+                  "translate": "mortp.pack.tooltip"
+                }
+            }
+        }
+      ]
+    }
+  }
+}

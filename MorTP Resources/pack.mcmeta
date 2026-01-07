@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "min_format": 75,
+    "max_format": 75,
+    "description": {
+      "translate": "mortp.resource_pack",
+      "fallback": "Resources for §c§lMor§6§lTP§r by §b§l§k@§r§4S2009§b§l§k@§r"
+    }
+  }
+}

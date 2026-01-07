@@ -1,0 +1,70 @@
+{
+  "type": "minecraft:multi_action",
+  "title": {
+    "translate": "mortp.home.title"
+  },
+  "external_title": "§c§lMor§6§lTP§r",
+  "body": [
+    {
+      "type": "minecraft:plain_message",
+      "contents": {
+        "translate": "mortp.home.body.1"
+      }
+    },
+    {
+      "type": "minecraft:plain_message",
+      "contents": {
+        "translate": "mortp.home.body.2"
+      }
+    }
+  ],
+  "inputs": [],
+  "after_action": "close",
+  "exit_action": {
+    "label": {
+      "translate": "mortp.home.btn.exit"
+    },
+    "tooltip": {
+      "translate": "mortp.home.btn.exit.tooltip"
+    }
+  },
+  "columns": 1,
+  "actions": [
+    {
+      "label": {
+        "translate": "mortp.home.btn.start"
+      },
+      "tooltip": {
+        "translate": "mortp.home.btn.start.tooltip"
+      },
+      "action": {
+        "type": "run_command",
+        "command": "function mortp:game/start"
+      }
+    },
+    {
+      "label": {
+        "translate": "mortp.home.btn.config"
+      },
+      "tooltip": {
+        "translate": "mortp.home.btn.config.tooltip"
+      },
+      "action": {
+        "type": "run_command",
+        "command": "function mortp:config"
+      }
+    },
+    {
+      "label": {
+        "translate": "mortp.home.btn.credits"
+      },
+      "tooltip": {
+        "translate": "mortp.home.btn.credits.tooltip"
+      },
+      "action": {
+        "type": "show_dialog",
+        "dialog": "mortp:credits"
+      }
+    }
+  ]
+}

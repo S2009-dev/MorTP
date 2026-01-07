@@ -1,0 +1,1 @@
+function mortp:podium/bronze/show with storage mortp:podium

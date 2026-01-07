@@ -1,0 +1,50 @@
+{
+  "mortp.resource_pack": "Resources for §c§lMor§6§lTP§r by §b§l§k@§r§4S2009§b§l§k@§r§7",
+  
+  "mortp.pack.description": "§c§lMor§6§lTP§r by §b§l§k@§r§4S2009§b§l§k@§r is basically §7a %s§r§7.",
+  "mortp.pack.tooltip": "§c§lDeath§9§lSwap§r is a minigame originally created by SethBling where players swap positions periodically to kill each other!",
+  
+  "mortp.debug.player": "§c§lMor§6§lTP§r Player%s",
+  "mortp.team.master": "Game Master",
+  
+  "mortp.error.players_count": "§cSorry, there are not enough players to start a game.",
+  "mortp.error.not_master": "§cSorry, you're not a game master.",
+  "mortp.error.in_game": "§cSorry, the game is already running.",
+  
+  "mortp.home.title": "§c§lMor§6§lTP§r・Home",
+  "mortp.home.body.1": "§7Welcome to §c§lMor§6§lTP§r§7!",
+  "mortp.home.body.2": "§7Here you can §bstart a game§7, §9configure the datapack§7, or §dview the credits§7.",
+  "mortp.home.btn.start": "Start Game",
+  "mortp.home.btn.start.tooltip": "§bStart a new game of §c§lMor§6§lTP§r §band have fun!",
+  "mortp.home.btn.config": "Configure", 
+  "mortp.home.btn.config.tooltip": "§9Configure the datapack to your liking.",
+  "mortp.home.btn.credits": "Credits",
+  "mortp.home.btn.credits.tooltip": "§dView who made this datapack possible.",
+  "mortp.home.btn.exit": "Exit",
+  "mortp.home.btn.exit.tooltip": "Exit this menu and go back to the game.",
+  
+  "mortp.credits.title": "§c§lMor§6§lTP§r・Credits",
+  "mortp.credits.body.1": "§7This datapack was entirely made by %s§7.",
+  "mortp.credits.body.2": "§7It is licensed under the %s §7license.",
+  "mortp.credits.btn.back": "Back",
+  "mortp.credits.btn.back.tooltip": "Go back to the main menu.",
+
+  "mortp.config.title": "§c§lMor§6§lTP§r・Configuration",
+  "mortp.config.body": "§9Here you can configure the datapack to your liking.",
+  "mortp.config.current_timer": "§7Number of seconds beetween each swap: §f%s",
+  "mortp.config.current_countdown": "§7Duration in seconds of the countdown: §f%s",
+  "mortp.config.timer": "Timer", 
+  "mortp.config.countdown": "Countdown",
+  "mortp.config.save": "Save",
+  "mortp.config.save.tooltip": "Save the configuration and go back to the main menu",
+  
+  "mortp.game.start": "§aGame started!",
+  "mortp.game.stop": "§cGame over!",
+  "mortp.game.swap.countdown": "§eSwapping in %s",
+  "mortp.game.swap.title": "§6Swapping...",
+  
+  "mortp.podium.show": "§eHere is the podium...",
+  "mortp.podium.bronze": "§bIn third position...",
+  "mortp.podium.silver": "§7In second position...",
+  "mortp.podium.gold": "§6And the winner is..."
+}

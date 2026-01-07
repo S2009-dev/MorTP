@@ -1,0 +1,61 @@
+{
+    "type": "minecraft:notice",
+    "title": {
+        "translate": "mortp.credits.title"
+    },
+    "body": [
+        {
+            "type": "plain_message",
+            "contents": {
+                "translate": "mortp.credits.body.1",
+                "with": [
+                    {
+                        "text": "§b§l§k@§r§4S2009§b§l§k@§r",
+                        "hover_event": {
+                            "action": "show_text",
+                            "value": "§9§nhttps://s2009.fr"
+                        },
+                        "click_event": {
+                            "action": "open_url",
+                            "url": "https://s2009.fr"
+                        }
+                    }
+                ]
+            },
+            "width": 250
+        },
+        {
+            "type": "plain_message",
+            "contents": {
+                "translate": "mortp.credits.body.2",
+                "with": [
+                    {
+                        "text": "§fCC BY-SA 4.0",
+                        "hover_event": {
+                            "action": "show_text",
+                            "value": "Creative Commons Attribution-ShareAlike 4.0 International"
+                        },
+                        "click_event": {
+                            "action": "open_url",
+                            "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+                        }
+                    }
+                ]
+            },
+            "width": 250
+        }
+    ],
+    "after_action": "close",
+    "action": {
+        "label": {
+            "translate": "mortp.credits.btn.back"
+        },
+        "tooltip": {
+            "translate": "mortp.credits.btn.back.tooltip"
+        },
+        "action": {
+            "type": "show_dialog",
+            "dialog": "mortp:home"
+        }
+    }
+}

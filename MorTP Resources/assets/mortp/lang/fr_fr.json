@@ -1,0 +1,50 @@
+{
+  "mortp.resource_pack": "Ressources pour §c§lMor§6§lTP§r par §b§l§k@§r§4S2009§b§l§k@§r§7",
+  
+  "mortp.pack.description": "§c§lMor§6§lTP§r par §b§l§k@§r§4S2009§b§l§k@§r est fondamentalement §7un %s§r§7.",
+  "mortp.pack.tooltip": "§c§lDeath§9§lSwap§r est un mini-jeu créé à l'origine par SethBling où les joueurs échangent leurs positions périodiquement pour se tuer!",
+  
+  "mortp.debug.player": "Joueur §c§lMor§6§lTP§r%s",
+  "mortp.team.master": "Maître du Jeu",
+  
+  "mortp.error.players_count": "§cDésolé, il n'y a pas assez de joueurs pour commencer une partie.",
+  "mortp.error.not_master": "§cDésolé, vous n'êtes pas un maître du jeu.",
+  "mortp.error.in_game": "§cDésolé, la partie est déjà en cours.",
+  
+  "mortp.home.title": "§c§lMor§6§lTP§r・Accueil",
+  "mortp.home.body.1": "§7Bienvenue dans §c§lMor§6§lTP§r§7!",
+  "mortp.home.body.2": "§7Ici vous pourrez §bdémarrer une partie§7, §9configurer le pack de données§7, ou §dconsulter les crédits§7.",
+  "mortp.home.btn.start": "Démarrer la Partie",
+  "mortp.home.btn.start.tooltip": "§bDémarrer une nouvelle partie de §c§lMor§6§lTP§r §bet amusez-vous!",
+  "mortp.home.btn.config": "Configurer", 
+  "mortp.home.btn.config.tooltip": "§9Configurer le pack de données à votre convenance.",
+  "mortp.home.btn.credits": "Crédits",
+  "mortp.home.btn.credits.tooltip": "§dConsulter qui a rendu ce pack de données possible.",
+  "mortp.home.btn.exit": "Quitter",
+  "mortp.home.btn.exit.tooltip": "Sortir de ce menu et retourner au jeu.",
+  
+  "mortp.credits.title": "§c§lMor§6§lTP§r・Crédits",
+  "mortp.credits.body.1": "§7Ce pack de données a été entièrement créé par %s§7.",
+  "mortp.credits.body.2": "§7Il est sous la licence %s§7.",
+  "mortp.credits.btn.back": "Retour",
+  "mortp.credits.btn.back.tooltip": "Revenir au menu principal.",
+
+  "mortp.config.title": "§c§lMor§6§lTP§r・Configuration",
+  "mortp.config.body": "§9Ici vous pouvez configurer le pack de données comme vous le souhaitez.",
+  "mortp.config.current_timer": "§7Nombre de secondes entre chaque échange: §f%s",
+  "mortp.config.current_countdown": "§7Durée en secondes du compte à rebours: §f%s",
+  "mortp.config.timer": "Minuteur",
+  "mortp.config.countdown": "Compte à rebours",
+  "mortp.config.save": "Sauvegarder",
+  "mortp.config.save.tooltip": "Enregistrer la configuration et revenir au menu principal.",
+  
+  "mortp.game.start": "§aPartie démarrée!",
+  "mortp.game.stop": "§cPartie terminée!",
+  "mortp.game.swap.countdown": "§eÉchange dans %s",
+  "mortp.game.swap.title": "§6Échange...",
+  
+  "mortp.podium.show": "§eVoici le podium...",
+  "mortp.podium.bronze": "§bEn troisième position...",
+  "mortp.podium.silver": "§7En seconde position...",
+  "mortp.podium.gold": "§6Et le gagnant est..."
+}
