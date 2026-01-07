@@ -15,10 +15,11 @@ MorTP is basically a DeathSwap, a minigame originally created by SethBling where
 2. Extract the archive in your downloads folder.
 3. Move `MorTP Resources.zip` to your `resourcepacks` folder.
 4. Move `MorTP v1.0.zip` to your world `datapacks` folder.
-5. Start your world.
-6. Run `/reload` command in chat (the datapack is loaded when you hear the experience orb sound effect).
-7. You can now see a new button in your pause menu!
-8. Run `/team join mortp.master` to use every [features](#computer-features).
+5. Apply the resourcepack to your game.
+6. Create a new world with the datapack or start an existing one.
+7. Run `/reload` command in chat (the datapack is loaded when you hear the experience orb sound effect).
+8. You can now see a new button in your pause menu!
+9. Run `/team join mortp.master` to use every [features](#computer-features).
 
 ![pause](https://github.com/S2009-dev/MorTP/blob/main/screenshots/pause.png?raw=true)
 
